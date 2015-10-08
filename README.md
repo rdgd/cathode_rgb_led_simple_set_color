@@ -6,3 +6,5 @@ To set up:
 
 1. Run power from PWM outs 9, 10, and 11 to the Green, Red, and Blue anodes respectively. To keep from burning out your LED add resistors (220 Ohms)
 2. Run from LED cathode to ground.
+3. Adjust redValue, greenValue, and blueValue to your liking
+4. Upload/run
